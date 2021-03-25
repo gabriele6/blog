@@ -1,7 +1,7 @@
 # Site
 title:              Gabriele Tenucci
-bio:                'Computer Scientist, AI enthusiast'
-description:        "Computer Scientist, AI enthusiast. Ad maiora"
+bio:                'Computer Scientist, AI enthusiast.'
+description:        "Computer Scientist, AI enthusiast."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
