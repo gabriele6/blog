@@ -1,14 +1,17 @@
 ---
 layout: page
-title: About me
+title: About
 tags: [about, gabriele, tenucci]
-date: 2021-03-26
+date: 2026-05-13
 comments: false
 ---
-    
-> <center>“All those days that came and went, little did I know that they were life.”</center>
 
-## Education
-Graduated in Computer Science at University of Pisa, currently studying Artificial Intelligence at the Master Degree in Computer Science.
-      
-[Contact me](mailto:gabriele@tenucci.it){: .btn}
+I work on **platforms and backend systems** — from compute and orchestration at Uber to institutional crypto infrastructure at Blockdaemon. I care most about what still works when traffic spikes, dependencies misbehave, and the happy path is nowhere in sight.
+
+This site is where I write **short, practical notes**: distributed systems, safety nets, and lessons that survived production — plus the occasional rabbit hole that did not fit a neat category.
+
+**Background:** Computer Science, University of Pisa.
+
+**Elsewhere:** [GitHub](https://github.com/{{ site.github-url }}) · [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin }}/)
+
+[Email](mailto:gabriele@tenucci.it){: .btn}
